@@ -1,0 +1,12 @@
+.center {
+  margin-top: 30vh;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+ }
+ .center h1 {
+  color: #4584fb;
+ }
+ .center p {
+  color: #ff0000;
+ }
